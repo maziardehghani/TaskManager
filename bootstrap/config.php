@@ -1,0 +1,1 @@
+<?php$database_config = [    'host' => 'localhost',    'db' => 'taskManager',    'username' => 'root',    'password' => ''];

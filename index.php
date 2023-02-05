@@ -1,0 +1,1 @@
+<?phpinclude 'bootstrap/init.php';include "view/index.php";

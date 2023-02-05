@@ -1,0 +1,1 @@
+<?phpconst SITE_TITLE = 'task Manager';const BASE_URL = 'http://localhost:8080/taskManager/';

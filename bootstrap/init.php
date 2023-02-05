@@ -1,0 +1,1 @@
+<?phpinclude 'config.php';include 'constans.php';include 'vendor/autoload.php';

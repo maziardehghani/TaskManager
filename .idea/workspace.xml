@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72569470-bbf5-459a-a888-696f63e5b007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bootstrap/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/constans.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/dist/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/src/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/src/script.coffeescript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager-ui/src/style.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LKF4SFyhE11btL125vG4Bvhx0U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\taskManager\bootstrap" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72569470-bbf5-459a-a888-696f63e5b007" name="Changes" comment="" />
+      <created>1675611675548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675611675548</updated>
+      <workItem from="1675611677394" duration="3538000" />
+      <workItem from="1675638326819" duration="1915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+{
+    "name": "aziaremo/task-manager",
+    "description": "a simple todo project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aziaremo\\TaskManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abu maziar",
+            "email": "maziardehghani1380@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^2.1"
+    }
+}
