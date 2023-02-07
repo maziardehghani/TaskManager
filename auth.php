@@ -1,0 +1,1 @@
+<?phpinclude "bootstrap/init.php";if (Request_Method() == 'POST'){    $action = $_GET['action'];    $params = (object) $_POST;    if ($action == 'register' && register_validation())    {        register($params);    }elseif ($action == 'login' && login_validation())    {        login($params );    }}include "view/auth.php";

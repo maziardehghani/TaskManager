@@ -267,3 +267,6 @@ body {
 .clear {
   clear: both;
 }
+.clickable {
+  cursor: pointer;
+}
